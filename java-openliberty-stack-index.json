@@ -1,0 +1,13 @@
+[
+	{
+		"displayName": "Java-Openliberty-Stack Open Liberty default template",
+		"description": "Eclipse MicroProfile \u0026 Jakarta EE on Open Liberty \u0026 OpenJ9 using Maven",
+		"language": "java",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "https://github.com/plainchanter/java-openliberty-stack/releases/v0.1.0/download/java-openliberty.v0.2.8.templates.default.tar.gz",
+		"links": {
+			"self": "/devfiles/java-openliberty/devfile.yaml"
+		}
+	}
+]

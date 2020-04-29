@@ -1,0 +1,24 @@
+[
+	{
+		"displayName": "Local IBM WebSphere Traditional® default template",
+		"description": "tWAS \u0026 OpenJ9 using Maven",
+		"language": "java",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///root/.appsody/stacks/dev.local/java-websphere-traditional.v0.2.1.templates.default.tar.gz",
+		"links": {
+			"self": "/devfiles/java-websphere-traditional/devfile.yaml"
+		}
+	},
+	{
+		"displayName": "Local Open Liberty default template",
+		"description": "Eclipse MicroProfile \u0026 Jakarta EE on Open Liberty \u0026 OpenJ9 using Maven",
+		"language": "java",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///root/.appsody/stacks/dev.local/java-openliberty.v0.2.8.templates.default.tar.gz",
+		"links": {
+			"self": "/devfiles/java-openliberty/devfile.yaml"
+		}
+	}
+]
